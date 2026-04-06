@@ -9,7 +9,7 @@ Ce projet utilise les données du *Quality of Government (QoG)*.
 - Ely
 - Dalia
 - Zola
-- [Votre Nom]
+
 
 ## Méthodologie (Référence : Arel-Bundock, 2021)
 Le projet suit une démarche d'inférence causale rigoureuse :
