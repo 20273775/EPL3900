@@ -21,3 +21,5 @@ Le projet suit une démarche d'inférence causale rigoureuse :
 - `/Scripts` : Code R pour le nettoyage, les graphiques et la régression `plm`.
 - `/Données` : Base de données nettoyée et exportations des tableaux (.png).
 
+## Précisions avant d'entamer le projet
+L'utilisateur doit *télécharger les données de panel* sur le site suivant : https://www.gu.se/en/quality-government/qog-data/data-downloads/standard-dataset 
